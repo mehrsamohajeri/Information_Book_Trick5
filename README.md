@@ -6,7 +6,7 @@
 https://github.com/Mehrsa-Mohajeri-Developer/Information_Book_Trick5/assets/145048780/c5e2b51a-3378-4f61-a917-2b72415c7ea1
 
 
-- 🔗 [Demo Project](https://mehrsa-mohajeri-developer.github.io/Information_Book_Trick5/)
+- 🔗 [Demo Project](https://mehrsamohajeri.github.io/Information_Book_Trick5/)
   
 - 👩🏻‍💻 Developed by Mehrsa Mohajeri
 
